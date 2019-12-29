@@ -1,3 +1,7 @@
+def greeting (name)
+  puts "Greeting #{name}"
+end
+  
 
 
 
