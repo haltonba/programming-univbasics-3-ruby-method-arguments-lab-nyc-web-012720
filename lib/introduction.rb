@@ -1,4 +1,4 @@
-def greeting (name)
+def introduction (name)
   puts "Greeting #{name}"
 end
   
